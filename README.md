@@ -22,9 +22,9 @@
 [поставить Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
 ### Как удобно писать код
-* [PyCharm](https://www.jetbrains.com/pycharm/)
-* [Atom](https://atom.io/)
-* [VSCode](https://code.visualstudio.com/)
+* [Среда разработки PyCharm](https://www.jetbrains.com/pycharm/)
+* [Среда разработки VSCode](https://code.visualstudio.com/)
+* [Текстовый редактор Atom](https://atom.io/)
 
 ## Полезные ссылки
 * [Хороший учебник «А Byte of Python» (русский перевод)](http://svp.pp.ua/AByteOfPython/)
@@ -34,6 +34,9 @@
 ## Занятия
 
 [1. Введение, Python](lessons/01.intro.python/)
+
+## Критерий зачета
+В первых четырех домашних заданиях по 9 задач, за решение каждой из которых даётся 1 балл. В пятом домашнем задании (мини-проект) можно набрать максимум 10 баллов. Всего в сумме 46 баллов, для получения зачета нужно набрать не менее 21 балла.
 
 ## Домашние задания
 
