@@ -48,3 +48,4 @@
 1. [Итерирование, списки и бинарный поиск](https://classroom.github.com/a/-NS0xbJr), дедлайн 17 сентября, 12:00 МСК
 2. [Словари и list comprehensions, снова бинарный поиск](https://classroom.github.com/a/dCQ77hm1), дедлайн 27 сентября, 20:00 МСК
 3. [Работа с коллекциями, слияние списков](https://classroom.github.com/a/TbqBYgcY), дедлайн 4 октября, 20:00 МСК
+4. [Eval, байткод и декораторы](https://classroom.github.com/a/5W8ers_z), дедлайн 11 октября, 20:00 МСК
