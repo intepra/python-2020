@@ -37,6 +37,7 @@
 2. [Кратко про git, небольшое демо, изменяемые (и нет) типы данных](lessons/02.intro.git/), [видеозапись](https://youtu.be/ZjXpv5bYqtA)
 3. [Типы данных, коллекции и их сложности](lessons/03.types.complexity/), [видеозапись](https://youtu.be/7eInz4t8W4g)
 4. [Функции, немного байткода, строки и потоки ввода-вывода](lessons/04.functions_strings_IO/), [видеозапись](https://youtu.be/0PwkiGRHaZM)
+5. [Потоки ввода-вывода и декораторы](lessons/05.strings_io_decorators/), [видеозапись](https://youtu.be/0idsTKCe3vo)
 
 [Плейлист со всеми прошедшими занятиями](https://www.youtube.com/playlist?list=PLMnIvyEqQ_PbN64gKyLGdlRzevpA7V-sY)
 
